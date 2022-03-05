@@ -1,0 +1,51 @@
+/* add your CSS here */
+
+.em {
+    font: italic 15px  "Open Sans","sans-serif";
+
+}
+
+span {
+    font: bold 16px "Open Sans","sans-serif";
+}
+
+.summary {
+    font-size:16px;
+    font-family:"Open Sans","sans-serif";
+}
+
+h3 {
+  font-size:22px;
+  font-family:"Open Sans","sans-serif";
+  padding: 1px
+  border:10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+}
+
+.base {
+  width: 300px;
+  border:5px;
+  border-style: outset;
+	padding: 0.5em;
+  margin: 1em;
+  flex-wrap: wrap;
+  background-color: hsl(185, 59%, 74%);
+}
+
+img {
+  border-color: white;
+  border-style:none;
+  width: 300px;
+}
+
+.main_text {
+  padding: 10px;
+  font-style: normal;
+  border-style: dotted
+
+}
